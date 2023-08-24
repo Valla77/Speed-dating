@@ -1,4 +1,4 @@
-![Tinder logo](Tinder_logo.png)
+![Tinder](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png)
 
 # Speed Dating with Tinder : Exploratory Data Analysis (EDA) project
 
