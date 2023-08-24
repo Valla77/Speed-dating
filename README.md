@@ -1,4 +1,4 @@
-![Tinder logo](Tinder-logo.jpg)
+![Tinder logo](Tinder_logo.png)
 
 # Speed Dating with Tinder : Exploratory Data Analysis (EDA) project
 
