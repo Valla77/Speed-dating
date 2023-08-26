@@ -24,3 +24,5 @@ A notebook with:
 * descriptive statistics
 * visualisations
 * captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date
+
+Review the project presentation : [Video Presentation](https://share.vidyard.com/watch/s48HPRavBnV5ueLGLgKxts?)
